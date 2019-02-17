@@ -9,7 +9,7 @@ yarn-error.log*
 package-lock.json
 
 # smtp
-config/smtpPwd.js
+config/smtpPwd.js*
 
 # Runtime data
 pids
